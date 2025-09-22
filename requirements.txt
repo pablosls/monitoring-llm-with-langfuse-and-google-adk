@@ -1,0 +1,5 @@
+google-adk
+openai
+openinference-instrumentation-google-adk
+litellm
+langfuse
